@@ -19,4 +19,4 @@
 澄怀园诗
 
 2. Run the program
-3. Download: book_category_match.xlsx
+3. Download: book_category_match_output_{time}.xlsx will be automatically downloaded
