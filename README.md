@@ -33,5 +33,11 @@ This project focuses on categorizing books using traditional Chinese classificat
    - Execute the code by selecting 'Run All' in the Colab environment.
 
 3. **Downloading the Results**
-   - After the code has successfully executed, the program will automatically download the results.
+   - After the code has been successfully executed, the program will automatically download the results.
    - The output will be in an Excel file named `book_category_match_output_{time}.xlsx`, where `{time}` represents the time of download.
+
+
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
