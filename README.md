@@ -20,5 +20,5 @@
 澄怀园诗
 ```
 
-2. Run the program
-3. Download: book_category_match_output_{time}.xlsx will be automatically downloaded
+2. Run All
+3. After executing the code, the program will automatically download a file named book_category_match_output_{time}.xlsx
