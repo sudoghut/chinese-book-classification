@@ -1,7 +1,7 @@
 
 # Predicting Book Categories from Traditional Chinese Classifications
 
-This project focuses on categorizing books using traditional Chinese classification systems. It employs machine learning techniques such as word embedding and gradient boosting trees to predict categories based on book titles. In my dataset, the accuracy is approximately 0.9.
+This project focuses on categorizing books using traditional Chinese classification systems. It employs machine learning techniques such as word embedding and gradient boosting trees to predict categories based on book titles. In my validation dataset, the accuracy is approximately 0.9.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/134YHNsURB2FlYXftUM8RtyFHWSe-07oX?usp=sharing)
 
