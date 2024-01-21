@@ -3,7 +3,7 @@
 
 ## Usage
 
-1. Upload your input.txt to colab without a header. Here is a sample:
+1. Upload your **input.txt** to colab without a header. Here is a sample:
 
 ```
 进修堂文集诗集
