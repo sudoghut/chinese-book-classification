@@ -40,4 +40,9 @@ This project focuses on categorizing books using traditional Chinese classificat
 
 ## License
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa-link]
+
+[cc-by-nc-sa-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg
+[cc-by-nc-sa-link]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
